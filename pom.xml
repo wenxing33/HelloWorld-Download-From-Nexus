@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jboss.quickstarts.eap</groupId>
     <artifactId>jboss-helloworld</artifactId>
-    <version>V3.0</version>
+    <version>V2.0</version>
     <packaging>war</packaging>
     <name>JbossHelloworld V3.0</name>
     <properties>
@@ -13,7 +13,7 @@
         <dependency>
             <groupId>org.jboss.quickstarts.eap</groupId>
             <artifactId>jboss-helloworld</artifactId>
-            <version>V3.0</version>
+            <version>V2.0</version>
             <type>war</type>
             <scope>provided</scope>
         </dependency>
