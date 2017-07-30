@@ -57,7 +57,7 @@
                         <configuration>
                           <groupId>org.jboss.quickstarts.eap</groupId>
                           <artifactId>jboss-helloworld</artifactId>
-                          <version>V3.0</version>
+                          <version>V2.0</version>
                           <packaging>war</packaging>
                         </configuration>
                     </execution>
